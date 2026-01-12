@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/david/Documents/Projects/MemoryAllocator/New/cmake_install.cmake"
+		"/Users/david/Documents/Projects/NewMemoryAllocator/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

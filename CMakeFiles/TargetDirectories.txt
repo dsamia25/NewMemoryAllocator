@@ -1,8 +1,8 @@
-/Users/david/Documents/Projects/MemoryAllocator/New/CMakeFiles/testMalloc.dir
-/Users/david/Documents/Projects/MemoryAllocator/New/CMakeFiles/testFree.dir
-/Users/david/Documents/Projects/MemoryAllocator/New/CMakeFiles/testReallocIncreasedSize.dir
-/Users/david/Documents/Projects/MemoryAllocator/New/CMakeFiles/testReallocDecreasedSize.dir
-/Users/david/Documents/Projects/MemoryAllocator/New/CMakeFiles/testSimpleMerge.dir
-/Users/david/Documents/Projects/MemoryAllocator/New/CMakeFiles/testAdvancedMerge.dir
-/Users/david/Documents/Projects/MemoryAllocator/New/CMakeFiles/edit_cache.dir
-/Users/david/Documents/Projects/MemoryAllocator/New/CMakeFiles/rebuild_cache.dir
+/Users/david/Documents/Projects/NewMemoryAllocator/CMakeFiles/testMalloc.dir
+/Users/david/Documents/Projects/NewMemoryAllocator/CMakeFiles/testFree.dir
+/Users/david/Documents/Projects/NewMemoryAllocator/CMakeFiles/testReallocIncreasedSize.dir
+/Users/david/Documents/Projects/NewMemoryAllocator/CMakeFiles/testReallocDecreasedSize.dir
+/Users/david/Documents/Projects/NewMemoryAllocator/CMakeFiles/testSimpleMerge.dir
+/Users/david/Documents/Projects/NewMemoryAllocator/CMakeFiles/testAdvancedMerge.dir
+/Users/david/Documents/Projects/NewMemoryAllocator/CMakeFiles/edit_cache.dir
+/Users/david/Documents/Projects/NewMemoryAllocator/CMakeFiles/rebuild_cache.dir
