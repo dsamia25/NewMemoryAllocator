@@ -1,0 +1,6 @@
+/Users/david/Documents/Projects/MemoryAllocator/New/cmake-build-debug/CMakeFiles/testMalloc.dir
+/Users/david/Documents/Projects/MemoryAllocator/New/cmake-build-debug/CMakeFiles/testFree.dir
+/Users/david/Documents/Projects/MemoryAllocator/New/cmake-build-debug/CMakeFiles/testSimpleMerge.dir
+/Users/david/Documents/Projects/MemoryAllocator/New/cmake-build-debug/CMakeFiles/testAdvancedMerge.dir
+/Users/david/Documents/Projects/MemoryAllocator/New/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/david/Documents/Projects/MemoryAllocator/New/cmake-build-debug/CMakeFiles/rebuild_cache.dir

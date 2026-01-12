@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "memory_allocator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "testAdvancedMerge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testAdvancedMerge-Debug-78a1b6bd5db861c516b6.json",
+					"name" : "testAdvancedMerge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testFree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testFree-Debug-fab4a138c3493382cd9f.json",
+					"name" : "testFree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testMalloc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testMalloc-Debug-01feedb23e6ab7ec8087.json",
+					"name" : "testMalloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testSimpleMerge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testSimpleMerge-Debug-00ac593f7e3f673e6bd2.json",
+					"name" : "testSimpleMerge",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/david/Documents/Projects/MemoryAllocator/New/cmake-build-debug",
+		"source" : "/Users/david/Documents/Projects/MemoryAllocator/New"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

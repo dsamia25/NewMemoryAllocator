@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "memory_allocator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "testAdvancedMerge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testAdvancedMerge-Debug-f2789d5de219a6f249ef.json",
+					"name" : "testAdvancedMerge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testFree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testFree-Debug-af29dd0f3a8cbc94dbfa.json",
+					"name" : "testFree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testMalloc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testMalloc-Debug-c919938fb7844422f2c5.json",
+					"name" : "testMalloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testReallocDecreasedSize::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testReallocDecreasedSize-Debug-699dc02a2ca20bfa003a.json",
+					"name" : "testReallocDecreasedSize",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testReallocIncreasedSize::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testReallocIncreasedSize-Debug-573b15a1d8672949ed9e.json",
+					"name" : "testReallocIncreasedSize",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testSimpleMerge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testSimpleMerge-Debug-5a4abab4fff3d146e686.json",
+					"name" : "testSimpleMerge",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/david/Documents/Projects/MemoryAllocator/New",
+		"source" : "/Users/david/Documents/Projects/MemoryAllocator/New"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
